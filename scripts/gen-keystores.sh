@@ -1,0 +1,1 @@
+(echo "fc58180@alunos.ciencias.ulisboa.pt"; echo "fc58188@alunos.ciencias.ulisboa.pt"; echo "fc58199@alunos.ciencias.ulisboa.pt") | ./scripts/keystores-generator.sh

@@ -1,0 +1,9 @@
+.idea/
+*.iml
+.vscode/
+*.class
+*.jar
+*.txt
+/images/
+/temperatures/
+bin/
